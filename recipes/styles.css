@@ -1,0 +1,27 @@
+.headings {
+    color: rgba(216, 33, 33, 0.7);
+    background-color: rgba(185, 64, 64, 0.2);
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+
+}
+
+#title {
+    color: rgb(37, 128, 14);
+    background-color: rgba(51, 129, 43, .2);
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.list {
+    color: rgb(214, 129, 31);
+    background-color: rgba(211, 171, 125, 0.2);
+}
+
+div,
+p {
+    color: rgba(216, 33, 33, 0.7);
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
